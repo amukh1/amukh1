@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amukh1
-- 👀 I’m interested in Discord bots, javascript, front and back end development, web dev, and mysql
+- 👀 I’m interested in Discord bots, javascript, front and back end development, web dev.
 - 🌱 I’m currently learning javascript, and sql
 - 💞️ I’m not looking to collaborate on anything right now.
 - 📫 How to reach me: i have discord (amukh1#9613) and a skype (live:.cid.45966b34423521f0).
