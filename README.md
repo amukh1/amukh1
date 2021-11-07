@@ -1,4 +1,4 @@
-<h1>guh</h1>
+
 
 - 👋 Hi, I’m @amukh1
 - 👀 I’m interested in Javascript
