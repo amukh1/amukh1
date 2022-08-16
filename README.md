@@ -8,13 +8,13 @@
 <br>
 
 <div align="center">
-<h3>JavaScript Back-End Api Developer</h3>
+<h3>JavaScript Low-Level Back-End Developer</h3>
 </div>
 
 ### About Me
 
-- Back-End/Full-Stack Developer
-- Discord Api User
+- Love backend stuff
+- Love the Lowwer levels, Ex. C, or Assembly.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007acc)
