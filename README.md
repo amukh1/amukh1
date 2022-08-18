@@ -14,7 +14,7 @@
 ### About Me
 
 - Love backend stuff
-- Love the Lowwer levels, Ex. C, or Assembly.
+- Love the Lower levels, Ex. C, or Assembly.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007acc)
