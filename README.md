@@ -14,6 +14,8 @@
 ### About Me
 
 - Love backend stuff
+- Love Javascript
+- Love NodeJS
 - Love the Lower levels, Ex. C, or Assembly.
 
 ## 🔧 Technologies & Tools
