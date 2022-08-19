@@ -8,7 +8,7 @@
 <br>
 
 <div align="center">
-<h3>JavaScript Low-Level Back-End Developer</h3>
+<h3>JavaScript Back-End Developer</h3>
 </div>
 
 ### About Me
