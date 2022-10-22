@@ -21,7 +21,7 @@
 
 
 <div align="center">
-<img src="https://lanyard.cnrad.dev/api/696953667403644938)"/>
+<img src="https://lanyard.cnrad.dev/api/696953667403644938"/>
 </div>
 
 ## 🔧 Technologies & Tools
