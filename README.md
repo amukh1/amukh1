@@ -18,6 +18,8 @@
 - Love NodeJS
 - Love the Lower levels, Ex. C, or Assembly.
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/696953667403644938)](https://discord.com/users/696953667403644938)
+
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007acc)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=e9d44d)
