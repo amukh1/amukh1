@@ -21,7 +21,7 @@
 
 
 <div align="center">
-[![Discord Presence](https://lanyard.cnrad.dev/api/696953667403644938)](https://discord.com/users/696953667403644938)
+<img src="https://lanyard.cnrad.dev/api/696953667403644938)"/>
 </div>
 
 ## 🔧 Technologies & Tools
