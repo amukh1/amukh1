@@ -4,6 +4,7 @@
  <!-- <img src="https://media2.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=790b76115a417fc52c304a1d8073d473b52e3c7e35f264c4&rid=giphy.gif&ct=g" width="35px"> -->
  </h1>
 
+ </div>
 
 <br>
 
@@ -18,7 +19,10 @@
 - Love NodeJS
 - Love the Lower levels, Ex. C, or Assembly.
 
+
+<div align="center">
 [![Discord Presence](https://lanyard.cnrad.dev/api/696953667403644938)](https://discord.com/users/696953667403644938)
+</div>
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007acc)
@@ -40,6 +44,5 @@
 [![Amukh1](https://github-readme-stats.vercel.app/api?username=amukh1&show_icons=true&theme=tokyonight)](https://github.com/amukh1)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amukh1&hide=html&title_color=3174e7&text_color=37bc9c&show_icons=true&icon_color=be90f2&bg_color=1d1f21)](https://github.com/amukh1)
 
- </div>
  
 Credits to " @Pasindu " for the readme idea and template
